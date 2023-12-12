@@ -1,0 +1,11 @@
+ul{
+    display: flex;
+    list-style: none;
+}
+li{
+    margin: 2rem;
+}
+img{
+    background-size: cover;
+    width: 100%;
+}
