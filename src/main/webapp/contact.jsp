@@ -13,7 +13,7 @@
             
         </ul>
     </nav>
-<h1>CONTACK US</h1>
+<h1>CONTACT US</h1>
   <p>Walchand Institute of Technology, Solapur<br>
 Ashok Chowk, Solapur 413006 (Maharashtra)<br>
 Phone : (0217)2652700 <br>
